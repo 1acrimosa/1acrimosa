@@ -12,7 +12,7 @@
 </p>
 <p align="center">
     <a href="https://leetcode.com/1acrimosa/"><img width="48%" src="https://leetcode.card.workers.dev/1acrimosa?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    <a href="https://github.com/1acrimosa"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1acrimosa&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/1acrimosa"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1acrimosa&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
 <!--
